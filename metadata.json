@@ -1,0 +1,6 @@
+{
+  "name": "MiTruCo — Mini Truly Companion",
+  "description": "Specialized companion for students and aspirants under high pressure to conquer competitive exams (Civil Services, MBBS/NEET, Law/CLAT, Architecture/NATA, Pre-Boards & Board exams) with structured problem breakdown, high-yield triage, and panic relief.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
